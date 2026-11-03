@@ -1,0 +1,10 @@
+{
+  "name": "nextphase-robotics-website",
+  "compatibility_date": "2026-11-03",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  },
+  "preview_urls": true,
+  "previews": {}
+}
